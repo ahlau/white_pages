@@ -13,9 +13,6 @@ Gem::Specification.new do |s|
   s.description = %q{Simple interface to WhitePages API}
 
   s.rubyforge_project = "white_pages"
-
-  s.add_dependency "hashie"
-  s.add_dependency "httparty"
   
   s.add_development_dependency("rspec", "~> 2.0.1")
   
