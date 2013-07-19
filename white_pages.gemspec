@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "white_pages"
 
 Gem::Specification.new do |s|
   s.name        = "white_pages"
-  s.version     = WhitePages::VERSION
+  s.version     = '0.0.2'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["kris"]
   s.email       = ["kris@octohq.com"]
