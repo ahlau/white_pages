@@ -1,7 +1,6 @@
 require 'white_pages/client'
 
 module WhitePages
-  VERSION = "0.0.1"
 
   class WhitePagesError < StandardError; end
 
