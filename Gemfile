@@ -1,3 +1,4 @@
 source "http://rubygems.org"
 
-gemspec
+gem 'hashie'
+gem 'httparty'
