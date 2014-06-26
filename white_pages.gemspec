@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "white_pages"
-  s.version     = '0.0.2'
+  s.version     = '0.0.2.fit'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["kris"]
   s.email       = ["kris@octohq.com"]
